@@ -6,7 +6,7 @@
 //  Copyright © 2018 Natalie McGovern. All rights reserved.
 //
 
-#include "binary_hw.hpp"
+#include "binarytree.hpp"
 #include <iostream>
 using namespace std;
 
